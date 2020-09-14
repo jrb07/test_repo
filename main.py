@@ -17,3 +17,5 @@ for line in f:
 f.close()
 
 print(sort(lines, 3))
+
+input()
